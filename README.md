@@ -20,9 +20,9 @@ Your modules needs to be re-usable and organized in a way that they can be exten
 ## Bonus Points
 Nice to have but no a hard requirement:
 
-**Cost**: Setting up your modules with no waste is highly appreciated.
-**Scale**: What if your application increased the number of allocated resources as the traffic increases?
-**Pipelines**: There are free CI/CD solutions for open source projects. Setting up a pipeline to build your app would be nice.
+* **Cost**: Setting up your modules with no waste is highly appreciated.
+* **Scale**: What if your application increased the number of allocated resources as the traffic increases?
+* **Pipelines**: There are free CI/CD solutions for open source projects. Setting up a pipeline to build your app would be nice.
 
 
 ------
