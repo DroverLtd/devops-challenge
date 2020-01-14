@@ -18,7 +18,7 @@ The application you are going to deploy can be any one of your choice. Language 
 Your modules needs to be re-usable and organized in a way that they can be extended. Design for growth and rapid prototyping.
 
 ## Bonus Points
-Nice to have but no a hard requirement:
+Nice to have but not a hard requirement:
 
 * **Cost**: Setting up your modules with no waste is highly appreciated.
 * **Scale**: What if your application increased the number of allocated resources as the traffic increases?
