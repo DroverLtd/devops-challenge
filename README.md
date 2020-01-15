@@ -10,7 +10,7 @@ We want to build ever more extraordinary digital experiences for our users and w
 
 Here at Drover we deploy applications all the time and as a `DevOps Engineer` you will have a key role to lead and improve our delivery pipelines.
 
-As part of this assignment we want you to write some [Terraform](https://www.terraform.io/) modules that deploys a Docker application to a [ECS](https://aws.amazon.com/ecs/) cluster.
+As part of this assignment we want you to write some [Terraform](https://www.terraform.io/) modules that deploys a Docker application to a [ECS](https://aws.amazon.com/ecs/) cluster. Please document the infrastructure also using diagrams.
 
 The application you are going to deploy can be any one of your choice. Language or and kind of specs are not important at this point.
 
